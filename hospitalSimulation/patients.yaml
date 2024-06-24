@@ -1,0 +1,29 @@
+- type: A
+  consultation_sequence:
+    - outside
+    - ultrasound
+    - routine check-up
+- type: B
+  consultation_sequence:
+    - outside
+    - fetal heart rate
+    - routine check-up
+    - ask for advice
+- type: C
+  consultation_sequence:
+    - outside
+    - ultrasound
+    - fetal heart rate
+    - routine check-up
+    - ask for advice
+- type: D
+  consultation_sequence:
+    - outside
+    - macro-examination
+    - routine check-up
+    - ask for advice
+- type: E
+  consultation_sequence:
+    - outside
+    - routine check-up
+    - ask for advice
